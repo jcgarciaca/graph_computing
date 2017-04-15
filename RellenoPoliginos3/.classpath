@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/base/dxf/dxf.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/modes/java/libraries/dxf/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/dxf"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/javascript/javascript.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/javascript"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/minim/jl1.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/minim"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/minim/jsminim.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/minim"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/minim/minim-spi.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/minim"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/minim/minim.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/minim"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/minim/mp3spi1.9.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/minim"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/minim/tritonus_aos.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/minim"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/minim/tritonus_share.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/minim"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/net/net.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/modes/java/libraries/net/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/net"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/gluegen-rt.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/modes/java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/jogl.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/modes/java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/opengl.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/modes/java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/pdf/itext.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/modes/java/libraries/pdf/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/pdf"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/pdf/pdf.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/modes/java/libraries/pdf/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/pdf"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/serial/RXTXcomm.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/modes/java/libraries/serial/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/serial"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/serial/serial.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/modes/java/libraries/serial/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/serial"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/video/video.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/modes/java/libraries/video/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/video"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/ant-launcher.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/ant.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/core.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/motion/motion.jar" sourcepath="/Users/Camilo/Documents/Processing/libraries/motion/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/user/motion"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/proscene/proscene.jar" sourcepath="/Users/Camilo/Documents/Processing/libraries/proscene/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Users/Camilo/Documents/Processing/libraries/proscene/reference/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="RellenoPoliginos3/lib/user/proscene"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="core.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
